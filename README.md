@@ -1,2 +1,2 @@
 # ProjectSample
-SampleProject sing maven
+SampleProject Using maven
